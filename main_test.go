@@ -1,4 +1,4 @@
-package golem
+package lemmatizer
 
 import (
 	"bytes"
